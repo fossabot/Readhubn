@@ -1,6 +1,7 @@
 # Readhub Native
 
 [![GitHub](https://img.shields.io/github/license/shensven/Readhubn)](./LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshensven%2FReadhubn.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshensven%2FReadhubn?ref=badge_shield)
 [![](https://img.shields.io/github/package-json/dependency-version/shensven/Readhubn/react)](./package.json)
 [![](https://img.shields.io/github/package-json/dependency-version/shensven/Readhubn/react-native)](./package.json)
 [![Test](https://github.com/shensven/Readhubn/actions/workflows/next.yml/badge.svg?branch=next)](https://github.com/shensven/Readhubn/actions/workflows/next.yml)
@@ -101,3 +102,7 @@ yarn react-native generate-bootsplash src/assets/Splash/bootsplash.png \
   --assets-path=assets \
   --flavor=main
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshensven%2FReadhubn.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshensven%2FReadhubn?ref=badge_large)
